@@ -3,6 +3,9 @@ from streamlit_extras.let_it_rain import rain
 from streamlit_extras.colored_header import colored_header
 import pandas as pd
 import pickle
+from PIL import Image
+
+st.image("C:\\Users\\91979\\Downloads\\nikesh\\projects\\cars_dekho\\Cardekho_prediction\\CarDekho-Feature.jpg", caption="Cardekho_prediction", use_column_width=True)
 
 def app():
     colored_header(
