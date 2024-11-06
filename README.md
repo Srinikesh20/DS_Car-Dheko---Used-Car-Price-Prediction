@@ -1,6 +1,3 @@
-![image](https://github.com/manishkr1754/CarDekho_Used_Car_Price_Prediction/assets/114581035/8540881b-a99b-4f29-b99c-9f91e3d6d74a)
-
-
 ## [CarDekho Used Car Price Prediction-Kaggle Notebook](https://www.kaggle.com/code/manishkr1754/cardekho-used-car-price-prediction)
 
 # Process Flow of Project
